@@ -1,4 +1,4 @@
-# 
+# Natif Aseprite flux de travail pour Mac OS | Avancé Aseprite flux de travail pour PC Windows. Avec passes de rendu et séparation de fréquences — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
